@@ -9,7 +9,7 @@
 В этом репозитории Вы можете найти мое резюме и другие достижения.
 
 Ссылки:
-- [Резюме](https://github.com/Lamantin12/CV/blob/master/CV%20Leonid%20Khodosevich.pdf)
+- [Резюме](https://github.com/Lamantin12/CV/blob/master/CV_Leonid_Khodosevich.pdf)
 - [Рекомендательное письмо AURUS](https://github.com/Lamantin12/CV/blob/master/AURUS%20Recomendation%20letter.pdf)
 - [Сертификат об успешном окончании буткемпа от НИУ ВШЭ посвященному NLP](https://github.com/Lamantin12/CV/blob/master/HSE%20bootcamp%20certificate.pdf)
 
