@@ -12,6 +12,7 @@
 - [Резюме](https://github.com/Lamantin12/CV/blob/master/CV_Leonid_Khodosevich.pdf)
 - [Рекомендательное письмо AURUS](https://github.com/Lamantin12/CV/blob/master/AURUS%20Recomendation%20letter.pdf)
 - [Сертификат об успешном окончании буткемпа от НИУ ВШЭ посвященному NLP](https://github.com/Lamantin12/CV/blob/master/HSE%20bootcamp%20certificate.pdf)
+- [Сертификат FinTech школы в НИУ ВШЭ](https://github.com/Lamantin12/CV/blob/master/HSE_FinTech_2023.pdf)
 
 # EN
 Hello, my name is Leonid Khodosevich.  
@@ -26,3 +27,4 @@ References:
 - [CV](https://github.com/Lamantin12/CV/blob/master/CV%20Leonid%20Khodosevich.pdf)
 - [AURUS letter of recommendation](https://github.com/Lamantin12/CV/blob/master/AURUS%20Recomendation%20letter.pdf)
 - [Certificate of Successful Completion of NLP Bootcamp from HSE](https://github.com/Lamantin12/CV/blob/master/HSE%20bootcamp%20certificate.pdf)
+- [Certificate FinTech school HSE](https://github.com/Lamantin12/CV/blob/master/HSE_FinTech_2023.pdf)
