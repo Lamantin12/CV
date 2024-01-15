@@ -2,7 +2,7 @@
 # RU
 Здравствуйте, меня зовут Леонид Ходосевич.  
 Я студент Национального Исследовательского Университета "Московского Энергетического Института" по направлению Прикладная Математика и Информатика.  
-Свою профессиональную карьеру хочу связать с анализом данных и машинным обучением. Так же хочу заниматься наукой, у меня уже есть курсовая работа, посвященная обучению с подкреплением. Это исследование было проведено полностью самостоятельно.
+Свою профессиональную карьеру хочу связать с анализом данных и машинным обучением. Так же хочу заниматься наукой, у меня уже есть статья, посвященная применению нейронных сетей при диагностике патологий глаза.  
 После бакалавриата планирую закончить магистратуру и, скорее всего, пойду в аспирантуру.
 
 
@@ -17,8 +17,8 @@
 # EN
 Hello, my name is Leonid Khodosevich.  
 I am a student at the National Research University "Moscow Power Engineering Institute" in the field of Applied Mathematics and Computer Science.  
-I want to link my professional career with data analysis and machine learning. I also want to do science and I already have a term paper on reinforcement learning. This research was done completely independently.
-After my bachelor's degree I plan to finish my master's degree and I will probably go to graduate school.
+I want to link my professional career with data analysis and machine learning. I also want to do science and I already have an article on the application of neural networks in the diagnosis of pathologies of the eye.
+After my bachelor's degree I plan to finish master's degree and I will probably go to graduate school.
 
 
 You can find my CV and other achievements in this repository.
