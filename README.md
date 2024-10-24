@@ -1,30 +1,31 @@
 # Резюме Леонид Ходосевич
+# EN
+Hello, my name is Leonid Khodosevich.  
+I am a professional data scientist with 1.5 years of experience in building statistical and ML models for data-driven decision making.
+I am a student of the Data Science Master's programme at the University of Vienna. Bachelor of National Research University ‘Moscow Power Engineering Institute’ in Applied Mathematics and Informatics.  
+
+
+In this repository you can find my CV and other achievements. 
+In other repositories you can find my projects/courses outside of office hours.
+  
+References:
+- [CV (English)](https://github.com/Lamantin12/CV/blob/master/CV_Leonid_Khodosevich_ENG.pdf)
+- [Certificate of Successful Completion of Deep learning school course](https://github.com/Lamantin12/CV/blob/master/DLS_diploma_eng.pdf)
+- [Certificate of Successful Completion of NLP Bootcamp from HSE](https://github.com/Lamantin12/CV/blob/master/HSE%20bootcamp%20certificate.pdf)
+- [Certificate FinTech school HSE](https://github.com/Lamantin12/CV/blob/master/HSE_FinTech_2023.pdf)
+
 # RU
 Здравствуйте, меня зовут Леонид Ходосевич.  
-Я студент Национального Исследовательского Университета "Московского Энергетического Института" по направлению Прикладная Математика и Информатика.  
-Свою профессиональную карьеру хочу связать с анализом данных и машинным обучением. Так же хочу заниматься наукой, у меня уже есть статья, посвященная применению нейронных сетей при диагностике патологий глаза.  
-После бакалавриата планирую закончить магистратуру и, скорее всего, пойду в аспирантуру.
+Я профессиональный data scientist с 1.5 годами опыта построения статистических и ML моделей для data-driven принятия решений.
+Я студент магисторской программы Data Science Венского Университета. Бакалавр Национального Исследовательского Университета "Московского Энергетического Института" по направлению Прикладная Математика и Информатика.  
 
 
-В этом репозитории Вы можете найти мое резюме и другие достижения.
+В этом репозитории Вы можете найти мое резюме и другие достижения. 
+В других репозиториях вы можете найти мои проекты/ курсы в нерабочее время.
 
 Ссылки:
-- [Резюме](https://github.com/Lamantin12/CV/blob/master/CV_Leonid_Khodosevich.pdf)
-- [Рекомендательное письмо AURUS](https://github.com/Lamantin12/CV/blob/master/AURUS%20Recomendation%20letter.pdf)
+- [Резюме (на русском)](https://github.com/Lamantin12/CV/blob/master/CV_Leonid_Khodosevich_RU.pdf)
+- [Сертификат об успешном окончании Deep learning school](https://github.com/Lamantin12/CV/blob/master/DLS_diploma_eng.pdf)
 - [Сертификат об успешном окончании буткемпа от НИУ ВШЭ посвященному NLP](https://github.com/Lamantin12/CV/blob/master/HSE%20bootcamp%20certificate.pdf)
 - [Сертификат FinTech школы в НИУ ВШЭ](https://github.com/Lamantin12/CV/blob/master/HSE_FinTech_2023.pdf)
 
-# EN
-Hello, my name is Leonid Khodosevich.  
-I am a student at the National Research University "Moscow Power Engineering Institute" in the field of Applied Mathematics and Computer Science.  
-I want to link my professional career with data analysis and machine learning. I also want to do science and I already have an article on the application of neural networks in the diagnosis of pathologies of the eye.
-After my bachelor's degree I plan to finish master's degree and I will probably go to graduate school.
-
-
-You can find my CV and other achievements in this repository.
-  
-References:
-- [CV](https://github.com/Lamantin12/CV/blob/master/CV%20Leonid%20Khodosevich.pdf)
-- [AURUS letter of recommendation](https://github.com/Lamantin12/CV/blob/master/AURUS%20Recomendation%20letter.pdf)
-- [Certificate of Successful Completion of NLP Bootcamp from HSE](https://github.com/Lamantin12/CV/blob/master/HSE%20bootcamp%20certificate.pdf)
-- [Certificate FinTech school HSE](https://github.com/Lamantin12/CV/blob/master/HSE_FinTech_2023.pdf)
